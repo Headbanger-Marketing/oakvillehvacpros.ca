@@ -1,15 +1,26 @@
 # Oakville HVAC Pros
 
-> Licensed, insured HVAC company in Oakville, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Oakville and Halton Region. Call (905) 845-3072.
+> Oakville HVAC Pros is a local HVAC company serving Oakville, Halton Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 845-3072  |  Email: contact@oakvillehvacpros.ca  |  Website: https://oakvillehvacpros.ca
+
+Service areas: Oakville, Burlington, Milton, Georgetown, Acton, Ajax, Pickering, Whitby
 
 ## Key pages
-- [Home](https://oakvillehvacpros.ca/)
-- [Services](https://oakvillehvacpros.ca/services/)
-- [About](https://oakvillehvacpros.ca/about/)
-- [Blog](https://oakvillehvacpros.ca/blog/)
-- [Contact](https://oakvillehvacpros.ca/contact/)
 
-## Contact
-- Phone: (905) 845-3072
-- Email: contact@oakvillehvacpros.ca
-- Area served: Oakville, Ontario and Halton Region
+- [Home](https://oakvillehvacpros.ca/): Oakville HVAC Pros homepage with service overview and FAQ
+- [About](https://oakvillehvacpros.ca/about/): About the company and service area
+- [Contact](https://oakvillehvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://oakvillehvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Oakville, Ontario
+- [AC Installation & Repair](https://oakvillehvacpros.ca/services/ac-repair/): AC Installation & Repair in Oakville, Ontario
+- [Heat Pumps](https://oakvillehvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Oakville, Ontario
+- [Duct Cleaning](https://oakvillehvacpros.ca/services/duct-cleaning/): Duct Cleaning in Oakville, Ontario
+- [Thermostats](https://oakvillehvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Oakville, Ontario
+- [Ductless AC Installation](https://oakvillehvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Oakville, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Oakville are answered on the homepage.
